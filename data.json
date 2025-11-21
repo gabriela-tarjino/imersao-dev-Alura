@@ -1,0 +1,27 @@
+[
+{
+    "nome": "Analista de Service Desk",
+    "empresa": "Grupo Olx",
+    "descricao": "Gestão de dispositivos móveis com MDM Intune e Zero Touch. Gestão no Microsoft Azure, bem como controle de vulnerabilidades, criação de políticas, acesso condicional, conformidade de senhas e dispositivos, controle de dispositivos BYOD e corporativos, instalação por script de aplicativos padrões, Entra ID. 
+    Gerenciamento do Kaspersky Network Agent e Endpoint para controle de vulnerabilidades e patches de atualização para correção. 
+    Preparo de máquinas e kits de onboarding para colaborador em D1. Gerenciamento, reparo e instalação de Windows e MacOs ingressados no Intune e Apple Business Manager. Gestão de acessos a aplicações como: Office 365, Netskope, Active Directory on-premises e cloud, Google Workspace, Jira, Github etc. Gestão de incidentes no ServiceNow, CMDB, controle de ativos, importação de ativos e monitoramento de dashboards de indicadores de qualidade do time.",
+    "ano": "07/2021 - 05/2025",
+    "link": "https://grupoolx.com.br/carreira"
+},
+{
+    "nome":"Analista de Service Desk Pleno",
+    "empresa": "Nava Technology for Business - Terceirizado em Liberty Seguros",
+    "descricao": "Análise N1 de problemas de hardware e software em notebooks e mobiles, orientação de procedimentos para reparos, triagem de chamados para atendimentos N2. Acesso e virtualização em VDI (aparelho Thin Client). Gestão de acesso em: Salesforce, Citrix, Active Directory, Avaya call center, Microsiga, Console Token, VPN, Console LDAP, Whatsapp corporativo.",
+    "ano": "09/2016 - 04/2020",
+    "link": "https://nava.com.br/"
+},
+{
+    "nome": "Aux. de Adm. de redes de computadores",
+    "empresa":"O Hervanário Produtos Naturais",
+    "descricao": "Manutenção de Hardware, formatação e reparos do Sistema Operacional Windows, manutenção e configuração de redes de computadores na rede LAN, gerenciamento de programas e instalação de impressoras. ",
+    "ano": "09/2015 - 09/2016",
+    "link": "https://www.instagram.com/ohervanarioprodutosnaturais/"
+},
+
+}
+]
